@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_Grupo_21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|c:\\users\\letia\\desktop\\programaci\u00F3n iii\\ejercicios\\tp3\\tp3_grupo_21\\tp3_grupo_21\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|solutionrelative:tp3_grupo_21\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|c:\\users\\letia\\desktop\\programaci\u00F3n iii\\ejercicios\\tp3\\tp3_grupo_21\\tp3_grupo_21\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|solutionrelative:tp3_grupo_21\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|c:\\users\\letia\\desktop\\programaci\u00F3n iii\\ejercicios\\tp3\\tp3_grupo_21\\tp3_grupo_21\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|solutionrelative:tp3_grupo_21\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|c:\\users\\letia\\desktop\\programaci\u00F3n iii\\ejercicios\\tp3\\tp3_grupo_21\\tp3_grupo_21\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|solutionrelative:tp3_grupo_21\\ejercicio1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|c:\\users\\letia\\desktop\\programaci\u00F3n iii\\ejercicios\\tp3\\tp3_grupo_21\\tp3_grupo_21\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_Grupo_21\\tp3_grupo_21\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{583110FA-41B3-454A-8902-6A1983A4E15F}|TP3_Grupo_21\\TP3_Grupo_21.csproj|solutionrelative:tp3_grupo_21\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_Grupo_21\\TP3_Grupo_21\\Index.aspx.cs",
-              "RelativeDocumentMoniker": "TP3_Grupo_21\\Index.aspx.cs",
-              "ToolTip": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_Grupo_21\\TP3_Grupo_21\\Index.aspx.cs",
-              "RelativeToolTip": "TP3_Grupo_21\\Index.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIBAwBUAAAAQAAAAAAAAAA==",
+              "Title": "ejercicio1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_GRUPO_21\\TP3_Grupo_21\\ejercicio1.aspx.cs",
+              "RelativeDocumentMoniker": "TP3_Grupo_21\\ejercicio1.aspx.cs",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_GRUPO_21\\TP3_Grupo_21\\ejercicio1.aspx.cs",
+              "RelativeToolTip": "TP3_Grupo_21\\ejercicio1.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T18:58:13.102Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "TP3_Grupo_21\\Site.Master",
               "ToolTip": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_Grupo_21\\TP3_Grupo_21\\Site.Master",
               "RelativeToolTip": "TP3_Grupo_21\\Site.Master",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-04-17T18:26:45.161Z",
               "EditorCaption": ""
@@ -53,12 +53,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.aspx",
-              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_GRUPO_21\\TP3_Grupo_21\\Index.aspx",
-              "RelativeDocumentMoniker": "TP3_Grupo_21\\Index.aspx",
-              "ToolTip": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_GRUPO_21\\TP3_Grupo_21\\Index.aspx",
-              "RelativeToolTip": "TP3_Grupo_21\\Index.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Title": "ejercicio1.aspx",
+              "DocumentMoniker": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_GRUPO_21\\TP3_Grupo_21\\ejercicio1.aspx",
+              "RelativeDocumentMoniker": "TP3_Grupo_21\\ejercicio1.aspx",
+              "ToolTip": "C:\\Users\\letia\\Desktop\\Programaci\u00F3n III\\Ejercicios\\TP3\\TP3_GRUPO_21\\TP3_Grupo_21\\ejercicio1.aspx",
+              "RelativeToolTip": "TP3_Grupo_21\\ejercicio1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-04-17T18:18:26.026Z",
               "EditorCaption": ""
